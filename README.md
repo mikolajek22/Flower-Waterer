@@ -1,0 +1,2 @@
+# Flower Waterer Project
+This is one of my first project based on Espressif IDF. I am not sure if it's the last version of this project, becuse it was written in 2022 and i was not into git really so it is the latest project status I have found on my old SSD disc.
